@@ -1,2 +1,3 @@
 # GetAllSeparateCharacterInTxtFile
-GetAllSeparateCharacterInTxtFile
+
+把你需要提取所有文本字符的txt文件拖到打包的exe文件运行即可获取
