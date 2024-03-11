@@ -1,0 +1,2 @@
+# GetAllSeparateCharacterInTxtFile
+GetAllSeparateCharacterInTxtFile
